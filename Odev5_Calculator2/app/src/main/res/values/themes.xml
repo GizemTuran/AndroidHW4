@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Odev5_Calculator2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#F68989</item>
+        <item name="colorPrimaryVariant">#C65D7B</item>
+        <item name="colorOnPrimary">#874356</item>
+
+        <item name="colorSecondary">#BFACE0</item>
+        <item name="colorSecondaryVariant">#A084CA</item>
+        <item name="colorOnSecondary">#645CAA</item>
+    </style>
+    <!--<item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+
+    <style name="Theme.Odev5_Calculator2" parent="Base.Theme.Odev5_Calculator2" />
+</resources>
